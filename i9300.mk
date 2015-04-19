@@ -52,6 +52,10 @@ PRODUCT_PACKAGES += \
     libsecril-client-sap \
     SamsungServiceMode \
     tinyplay
+    
+# QuickBoot Source
+PRODUCT_PACKAGES += \
+    QuickBoot
 
 # NFC
 PRODUCT_PACKAGES += \
